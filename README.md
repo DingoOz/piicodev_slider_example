@@ -5,4 +5,6 @@ The piicodev potentiometer slider is made by Core Electronics. The sample code p
 
 The build environment is Arduino IDE 2.2.1 and this has been tested on a Pico W. 
 
+Uses the following Arduino framework for the RP2040: https://github.com/earlephilhower/arduino-pico
+
 "PiicoDev" and the PiicoDev Logo are trademarks of Core Electronics Pty Ltd.
